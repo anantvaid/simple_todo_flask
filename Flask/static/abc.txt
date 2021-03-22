@@ -1,0 +1,2 @@
+This is a random text to show that this text file can be accessed from the url directly if the end user knows this exists in static folder. It can be downloaded using url/static/abc.txt.
+Very Dangerous to put any confidential data in this folder here.
